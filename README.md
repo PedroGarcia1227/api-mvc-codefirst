@@ -18,7 +18,7 @@ Este projeto é uma API REST desenvolvida para o back-end de uma empresa fictíc
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/PedroGarcia1227/api-mvc-codefirst
     ```
 
 2. **Configure a string de conexão do banco de dados**:
@@ -44,7 +44,7 @@ Este projeto é uma API REST desenvolvida para o back-end de uma empresa fictíc
     dotnet run
     ```
 
-2. A API estará disponível em `http://localhost:5000`.
+2. A API estará disponível em `http://localhost:<porta>`, verifique a porta no terminal.
 
 ## Endpoints da API
 
