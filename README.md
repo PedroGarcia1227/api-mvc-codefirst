@@ -48,11 +48,7 @@ Este projeto é uma API REST desenvolvida para o back-end de uma empresa fictíc
 
 ## Endpoints da API
 
-- **GET /api/entidade**: Retorna todas as entidades.
-- **GET /api/entidade/{id}**: Retorna uma entidade específica pelo ID.
-- **POST /api/entidade**: Cria uma nova entidade.
-- **PUT /api/entidade/{id}**: Atualiza uma entidade existente pelo ID.
-- **DELETE /api/entidade/{id}**: Deleta uma entidade pelo ID.
+
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
