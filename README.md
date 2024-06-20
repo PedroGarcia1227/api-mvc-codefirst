@@ -1,7 +1,7 @@
 # api-mvc-codefirst
 
 # Projeto Back-End para Empresa Fictícia
-Este projeto é uma API REST desenvolvida para o back-end de uma empresa fictícia. A API utiliza a arquitetura de software Model View Controller (MVC) e emprega técnicas de Code First, Fluent API e Migrations para a criação e manutenção do banco de dados diretamente a partir do código.
+Este projeto é uma API REST desenvolvida para o back-end de uma empresa fictícia. A API utiliza a arquitetura de software Model View Controller (MVC) e emprega técnicas de Code First, Fluent API e Migrations para a criação e manutenção do banco de dados diretamente a partir do código. Além disso, o projeto implementa programação assíncrona para garantir a eficiência e a responsividade das operações, permitindo que tarefas demoradas, como consultas a banco de dados e chamadas a serviços externos, sejam executadas sem bloquear a execução de outras operações.
 
 ## Tecnologias Utilizadas
 - **C#**: Linguagem de programação utilizada para desenvolver a API.
