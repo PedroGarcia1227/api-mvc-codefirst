@@ -26,7 +26,7 @@ Este projeto é uma API REST desenvolvida para o back-end de uma empresa fictíc
     ```json
     {
         "ConnectionStrings": {
-            "DefaultConnection": "Server=.;Database=EmpresaFicticiaDB;Trusted_Connection=True;"
+            "DefaultConnection": "Server=.;Database=EmpresaFicticiaDB;Trusted_Connection=True"
         }
     }
     ```
