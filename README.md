@@ -11,8 +11,8 @@ Este projeto é uma API REST desenvolvida para o back-end de uma empresa fictíc
 - **Migrations**: Ferramenta para gerenciar alterações incrementais no esquema do banco de dados, mantendo os dados existentes.
 
 ## Pré-requisitos
-- [.NET Core SDK](https://dotnet.microsoft.com/download) instalado
-- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) ou outro banco de dados compatível
+- [.NET Core SDK](https://dotnet.microsoft.com/download)
+- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ## Configuração do Projeto
 
